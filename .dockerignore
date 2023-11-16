@@ -32,3 +32,6 @@
 **/dist
 LICENSE
 README.md
+jenkins-run.cmd
+jenkins-run.ps1
+
